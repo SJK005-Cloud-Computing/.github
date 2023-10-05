@@ -1,12 +1,7 @@
-## Hi there 👋
+# Cloud Computing - SJK005
 
-<!--
+This is the repository for all projects used in the subject "Cloud Computing - SJK005".
+Masters Degree in Intelligent Systems.
+University Jaume I  - Castellón (Spain)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Feel free to fork any project of your interest.
